@@ -64,5 +64,12 @@
     }
 }
 
+- (IBAction)onURLButtton:(id)sender
+{
+    
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://michaelchinen.com"]];
+}
+
+
 @end
 

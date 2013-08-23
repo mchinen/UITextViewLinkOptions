@@ -17,4 +17,5 @@
 
 - (void) handleURL:(NSURL *)url;
 - (IBAction)onSwitch:(id)sender;
+- (IBAction)onURLButtton:(id)sender;
 @end
