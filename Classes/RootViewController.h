@@ -16,5 +16,5 @@
 @property (nonatomic, retain) UITextView *textView;
 
 - (void) handleURL:(NSURL *)url;
-
+- (IBAction)onSwitch:(id)sender;
 @end

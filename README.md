@@ -1,3 +1,8 @@
+# mchinen's edit
+
+I forked this project from marksands and made a small change to add a switch so you can select the behavior.
+FYI, in the original app you can still change behavior by sending the app to an inactive state and bringing it back.
+
 # UITextView Links with User Options
 
 This application demonstrates how to detect links within a `UITextView` which open in a custom `UIWebView` controller. With the custom controller providing the user the option to open the url in mobile Safari.
